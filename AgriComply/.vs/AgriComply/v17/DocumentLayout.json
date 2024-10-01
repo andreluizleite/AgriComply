@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\AgriComply\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A9602-FACD-4478-8C37-58FDEABCE999}|AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\AgriComply.ComplianceService.Domain.csproj|c:\\users\\andre\\source\\repos\\agricomply\\agricomply.complianceservice\\agricomply.complianceservice.domain\\entities\\compliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A9602-FACD-4478-8C37-58FDEABCE999}|AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\AgriComply.ComplianceService.Domain.csproj|solutionrelative:agricomply.complianceservice\\agricomply.complianceservice.domain\\entities\\compliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B6049BE-6E24-48A5-BDB7-59E1F761E3A6}|AgriComply.FarmService\\AgriComply.FarmService.Api\\AgriComply.FarmService.Api.csproj|c:\\users\\andre\\source\\repos\\agricomply\\agricomply.farmservice\\agricomply.farmservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B6049BE-6E24-48A5-BDB7-59E1F761E3A6}|AgriComply.FarmService\\AgriComply.FarmService.Api\\AgriComply.FarmService.Api.csproj|solutionrelative:agricomply.farmservice\\agricomply.farmservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Compliance.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgriComply\\AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\Entities\\Compliance.cs",
+              "RelativeDocumentMoniker": "AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\Entities\\Compliance.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgriComply\\AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\Entities\\Compliance.cs",
+              "RelativeToolTip": "AgriComply.ComplianceService\\AgriComply.ComplianceService.Domain\\Entities\\Compliance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:00:40.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AgriComply\\AgriComply.FarmService\\AgriComply.FarmService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AgriComply.FarmService\\AgriComply.FarmService.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AgriComply\\AgriComply.FarmService\\AgriComply.FarmService.Api\\Program.cs",
+              "RelativeToolTip": "AgriComply.FarmService\\AgriComply.FarmService.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T15:58:35.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

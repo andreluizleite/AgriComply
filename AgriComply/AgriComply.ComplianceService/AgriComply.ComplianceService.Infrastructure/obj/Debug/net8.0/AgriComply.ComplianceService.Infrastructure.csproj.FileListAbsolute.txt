@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\bin\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.deps.json
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\bin\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\bin\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.pdb
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.AssemblyInfo.cs
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\refint\AgriComply.ComplianceService.Infrastructure.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\AgriComply.ComplianceService.Infrastructure.pdb
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Infrastructure\obj\Debug\net8.0\ref\AgriComply.ComplianceService.Infrastructure.dll

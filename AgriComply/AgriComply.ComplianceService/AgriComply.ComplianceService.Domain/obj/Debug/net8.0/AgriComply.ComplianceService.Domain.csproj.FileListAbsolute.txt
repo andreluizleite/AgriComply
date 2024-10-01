@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\bin\Debug\net8.0\AgriComply.ComplianceService.Domain.deps.json
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\bin\Debug\net8.0\AgriComply.ComplianceService.Domain.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\bin\Debug\net8.0\AgriComply.ComplianceService.Domain.pdb
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.AssemblyInfo.cs
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\refint\AgriComply.ComplianceService.Domain.dll
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\AgriComply.ComplianceService.Domain.pdb
+C:\Users\andre\source\repos\AgriComply\AgriComply.ComplianceService\AgriComply.ComplianceService.Domain\obj\Debug\net8.0\ref\AgriComply.ComplianceService.Domain.dll
