@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BOsQfjqDLnFWMSjOJCMDqtxWqrOi5JECdCVo+/A0vPVQUN1NEfm8cd0ihek3fdUFtuxhCePQQbryPERw3zfug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\AgriComply\\AgriComply.FarmService\\AgriComply.FarmService.Application\\AgriComply.FarmService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
