@@ -1,1 +1,0 @@
-// Handler for Validate Compliance Command

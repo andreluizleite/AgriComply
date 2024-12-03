@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day3\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day3\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day2\\parttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day2\\parttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day2\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day2\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day1\\parttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day1\\parttwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day1\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day1\\partone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day1\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day1\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|c:\\users\\andre\\source\\repos\\adventcode2024\\adventcode2024\\day1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0E666319-3AB9-4669-94F6-B41638187FAB}|AdventCode2024\\AdventCode2024.csproj|solutionrelative:adventcode2024\\day1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartTwo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day2\\PartTwo.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day2\\PartTwo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day2\\PartTwo.cs",
+              "RelativeToolTip": "AdventCode2024\\Day2\\PartTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:50:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartOne.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day2\\PartOne.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day2\\PartOne.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day2\\PartOne.cs",
+              "RelativeToolTip": "AdventCode2024\\Day2\\PartOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:50:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Input.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\Input.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day1\\Input.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\Input.cs",
+              "RelativeToolTip": "AdventCode2024\\Day1\\Input.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:19:56.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\input.txt",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day1\\input.txt",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\input.txt",
+              "RelativeToolTip": "AdventCode2024\\Day1\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANIDAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-03T18:17:23.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartTwo.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\PartTwo.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day1\\PartTwo.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\PartTwo.cs",
+              "RelativeToolTip": "AdventCode2024\\Day1\\PartTwo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:15:18.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartOne.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day3\\PartOne.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day3\\PartOne.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day3\\PartOne.cs",
+              "RelativeToolTip": "AdventCode2024\\Day3\\PartOne.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:57:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PartOne.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\PartOne.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Day1\\PartOne.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Day1\\PartOne.cs",
+              "RelativeToolTip": "AdventCode2024\\Day1\\PartOne.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:24:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Program.cs",
+              "RelativeDocumentMoniker": "AdventCode2024\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\AdventCode2024\\AdventCode2024\\Program.cs",
+              "RelativeToolTip": "AdventCode2024\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T21:23:46.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
